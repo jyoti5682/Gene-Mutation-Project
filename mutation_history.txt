@@ -1,0 +1,10 @@
+56,T,T,GTG,GTG,Silent,None
+25,A,T,AAG,TAG,Nonsense,K->*
+45,G,T,CTG,CTT,Silent,None
+25,A,T,AAG,TAG,Nonsense,K->*
+25,A,G,AAG,GAG,Missense,K->E
+25,A,C,AAG,CAG,Missense,K->Q
+25,A,C,AAG,CAG,Missense,K->Q
+56,T,G,GTG,GGG,Missense,V->G
+45,G,C,CTG,CTC,Silent,None
+26,A,T,AAG,ATG,Missense,K->M

@@ -1,0 +1,13 @@
+HBB Mutation Analysis Report
+========================================
+
+Nucleotide Position: 26
+Original Base: A
+Mutated Base: T
+
+Original Codon: AAG
+Mutated Codon: ATG
+
+Mutation Type: Missense
+
+Amino Acid Change: K -> M
